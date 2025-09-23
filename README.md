@@ -1,8 +1,6 @@
 # Hi 👋, I'm Vishal
 
   
- <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
 
 <br/>
@@ -13,8 +11,7 @@
 </p>
 
 
- Last Updated on 24/04/2025 01:26:11 UTC
-<!--END_SECTION:waka-->
+
 
 
 ### Connect with me:
