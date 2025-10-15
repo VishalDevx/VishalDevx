@@ -30,12 +30,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iVishalCode&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iVishalCode&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDevx&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iVishalCode&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -43,16 +43,16 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://github.com/iVishalCode"><img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub"/></a>
+  <a href="mailto:your-vishalcsx@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/></a>
+  <a href="https://linkedin.com/in/vishal-singh-779054260"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/VishalCsx"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
+  <a href="https://github.com/VishalDevx"><img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iVishalCode&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
