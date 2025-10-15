@@ -18,12 +18,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDevx&theme=tokyonight&hide_border=true&background=0d1117" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDevx&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=tokyo-night&hide_border=true&area=true" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react-dark&hide_border=true&area=true" width="600"/>
 </p>
 
 ---
