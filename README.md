@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20Enthusiast;Always%20learning&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
 
----
+
 
 ## 📈 GitHub Stats & Activity
 
@@ -18,7 +18,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Connect
 
@@ -29,7 +29,7 @@
   <a href="https://github.com/VishalDevx"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" /></a>
 </p>
 
----
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=36BCF7" />
