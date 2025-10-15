@@ -34,22 +34,20 @@
 <img src="https://skillicons.dev/icons?i=js,ts,rust,solidity&theme=dark" title="JavaScript, TypeScript, Rust, Solidity" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,framer,recoil,redux&theme=dark" title="React, Next.js, Tailwind CSS, HTML, CSS, Framer Motion, Recoil, Redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,framer,recoil,redux&theme=dark" title="React, Next.js, Tailwind CSS, HTML, Redux" />
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongoose&theme=dark" title="Node.js, Express, Prisma, Sequelize, Mongoose" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongoose&theme=dark" title="Node.js, Express, Prisma, Sequelize" />
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" title="PostgreSQL, MongoDB, Redis, Kafka" />
 
 <!-- DevOps & Deployment -->
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,flyio,vercel,githubactions,jenkins,kubernetes&theme=dark" title="Docker, Nginx, AWS, Fly.io, Vercel, GitHub Actions, Jenkins, Kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,flyio,vercel,githubactions,jenkins,kubernetes&theme=dark" title="Docker, Nginx, AWS,  Vercel, GitHub Actions, Jenkins, Kubernetes" />
 
-<!-- Auth & Security -->
-<img src="https://skillicons.dev/icons?i=jwt,oauth&theme=dark" title="JWT, OAuth2" />
 
-<!-- Testing & Validation -->
-<img src="https://skillicons.dev/icons?i=jest,mocha,zod&theme=dark" title="Jest, Mocha, Zod" />
+
+
 
 <!-- Tools & IDEs -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" title="Git, GitHub, VSCode, Figma" />
