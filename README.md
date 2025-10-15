@@ -1,39 +1,25 @@
-<!-- Vishal's Clean & Minimal GitHub Profile -->
+<!-- Vishal's Minimal & Clean GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20Enthusiastic;Always%20learning%20new%20things&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20Enthusiast;Always%20learning&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
 </p>
 
 ---
 
 ### 💫 About Me
-🚀 Building **scalable Web2 + Web3 apps**  
-💻 Learning **AI, Rust, and System Design**  
-🌍 Contributing to **open source (OSS)**  
-🎯 Focused on **clean, production-grade code**
-
----
-
-### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,git,github,tailwind,vscode,vercel&perline=7" />
+🎯 Building **scalable Web2 + Web3 apps** & learning **AI, Rust, and Solana**.<br/>
+🌍 Contributing to **OSS projects**, writing **clean, production-ready code**.
 </p>
-
----
-
-### 🧠 Currently
-- 🔨 Building **25 advanced full-stack + AI projects**
-- ⚡ Active in **OSS contributions**
-- 📘 Deepening **Rust + Solana** skills
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalDevx&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDevx&theme=tokyonight&hide_border=true&background=0d1117" height="150" />
 </p>
 
 <p align="center">
@@ -52,10 +38,12 @@
 
 ---
 
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=blue" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,git,github,tailwind,vscode,vercel&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer" />
 </p>
+
