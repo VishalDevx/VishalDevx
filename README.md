@@ -1,17 +1,8 @@
-<!-- Vishal's Portfolio-Style GitHub Profile -->
+
 
 # Hi 👋, I'm Vishal
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20Enthusiast;Always%20learning&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
-
----
-
-<!-- Navbar -->
-<p align="center">
-  <a href="#github-stats--activity" style="margin: 0 15px; color:#36BCF7; text-decoration:none; font-weight:bold;">📈 GitHub Stats</a> |
-  <a href="#connect" style="margin: 0 15px; color:#36BCF7; text-decoration:none; font-weight:bold;">🌐 Connect</a> |
-  <a href="#profile-views" style="margin: 0 15px; color:#36BCF7; text-decoration:none; font-weight:bold;">👀 Profile Views</a>
-</p>
 
 ---
 
@@ -40,12 +31,8 @@
 
 ---
 
-## 👀 Profile Views
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=36BCF7" />
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer&animation=fadeIn" />
