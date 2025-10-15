@@ -1,4 +1,4 @@
-<!-- Vishal's Minimal & Clean GitHub Profile -->
+<!-- Vishal's Motion-Rich Minimal GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
@@ -10,23 +10,28 @@
 
 ### 💫 About Me
 <p align="center">
-🎯 Building **scalable Web2 + Web3 apps** & learning **AI, Rust, and Solana**.<br/>
-🌍 Contributing to **OSS projects**, writing **clean, production-ready code**.
+🎯 Building **scalable Web2 + Web3 apps** & contributing to **OSS**.  
+💻 Learning **AI, Rust, and Solana** for production-grade systems.
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
+
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDevx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=36BCF7" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDevx&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="150" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react-dark&hide_border=true&area=true" width="600"/>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,git,github,tailwind,vscode,vercel&perline=7" />
 </p>
 
 ---
@@ -41,12 +46,10 @@
 
 ---
 
-### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,git,github,tailwind,vscode,vercel&perline=7" />
+  <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=36BCF7" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer&animation=fadeIn" />
 </p>
-
