@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Vishal
 
   
@@ -13,4 +14,4 @@
 
 
 
-
+make the syliyst to it neat and clean  and motion used
