@@ -1,4 +1,4 @@
-<!-- Vishal's Minimal + Motion GitHub Profile -->
+<!-- Vishal's Professional & Motion GitHub Profile -->
 
 # Hi 👋, I'm Vishal
 
@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 🎯 Building **scalable Web2 + Web3 apps** & contributing to **OSS**.  
-💻 Learning **AI, Rust, and Solana** for production-grade systems.
+💻 Learning **AI, Rust, Solana**, and writing **production-ready code**.
 
 ---
 
@@ -25,7 +25,30 @@
 ---
 
 ## ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,docker,git,github,tailwind,vscode,vercel&perline=8" style="margin-top:10px;" />
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,rust,solidity" title="JavaScript, TypeScript, Rust, Solidity" />
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,framer,recoil,redux" title="React, Next.js, Tailwind CSS, HTML, CSS, Framer Motion, Recoil, Redux" />
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongoose" title="Node.js, Express, Prisma, Sequelize, Mongoose" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" title="PostgreSQL, MongoDB, Redis, Kafka" />
+
+### **DevOps & Deployment**
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,flyio,vercel,githubactions,jenkins,kubernetes" title="Docker, Nginx, AWS, Fly.io, Vercel, GitHub Actions, Jenkins, Kubernetes" />
+
+### **Authentication & Security**
+<img src="https://skillicons.dev/icons?i=jwt,oauth" title="JWT, OAuth2" />
+
+### **Testing & Validation**
+<img src="https://skillicons.dev/icons?i=jest,mocha,zod" title="Jest, Mocha, Zod" />
+
+### **Tools & IDEs**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" title="Git, GitHub, VSCode, Figma" />
 
 ---
 
