@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=36BCF7&icon_color=36BCF7" height="150" />
   
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react&hide_border=true&area=true" width="100%" style="margin-top:10px;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react&hide_border=true&area=true" height="150" style="margin-top:10px;" />
 </div>
 
 
