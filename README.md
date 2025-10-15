@@ -24,63 +24,38 @@
 
 ---
 
-## ⚙️ Tech Stack
+
 
 ## ⚙️ Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" />
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" title="Rust" />
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" title="Solidity" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" />
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" />
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" />
-<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" />
-<img src="https://skillicons.dev/icons?i=framer&theme=dark" title="Framer Motion" />
-<img src="https://skillicons.dev/icons?i=recoil&theme=dark" title="Recoil" />
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,rust,solidity&theme=dark" title="JavaScript, TypeScript, Rust, Solidity" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" />
-<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" />
-<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma" />
-<img src="https://skillicons.dev/icons?i=sequelize&theme=dark" title="Sequelize" />
-<img src="https://skillicons.dev/icons?i=mongoose&theme=dark" title="Mongoose" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,framer,recoil,redux&theme=dark" title="React, Next.js, Tailwind CSS, HTML, CSS, Framer Motion, Recoil, Redux" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" />
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" />
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Kafka" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongoose&theme=dark" title="Node.js, Express, Prisma, Sequelize, Mongoose" />
 
-### DevOps & Deployment
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" />
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" />
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" />
-<img src="https://skillicons.dev/icons?i=flyio&theme=dark" title="Fly.io" />
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" />
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" title="Jenkins" />
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" />
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" title="PostgreSQL, MongoDB, Redis, Kafka" />
 
-### Authentication & Security
-<img src="https://skillicons.dev/icons?i=jwt&theme=dark" title="JWT" />
-<img src="https://skillicons.dev/icons?i=oauth&theme=dark" title="OAuth2" />
+<!-- DevOps & Deployment -->
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,flyio,vercel,githubactions,jenkins,kubernetes&theme=dark" title="Docker, Nginx, AWS, Fly.io, Vercel, GitHub Actions, Jenkins, Kubernetes" />
 
-### Testing & Validation
-<img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" />
-<img src="https://skillicons.dev/icons?i=mocha&theme=dark" title="Mocha" />
-<img src="https://skillicons.dev/icons?i=zod&theme=dark" title="Zod" />
+<!-- Auth & Security -->
+<img src="https://skillicons.dev/icons?i=jwt,oauth&theme=dark" title="JWT, OAuth2" />
 
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VSCode" />
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" />
+<!-- Testing & Validation -->
+<img src="https://skillicons.dev/icons?i=jest,mocha,zod&theme=dark" title="Jest, Mocha, Zod" />
+
+<!-- Tools & IDEs -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" title="Git, GitHub, VSCode, Figma" />
+
+</div>
+
 
 ---
 
