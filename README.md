@@ -26,38 +26,7 @@
 
 
 
-## ⚙️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts,rust,solidity&theme=dark" title="JavaScript, TypeScript, Rust, Solidity" />
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,framer,recoil,redux&theme=dark" title="React, Next.js, Tailwind CSS, HTML, Redux" />
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,mongoose&theme=dark" title="Node.js, Express, Prisma, Sequelize" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" title="PostgreSQL, MongoDB, Redis, Kafka" />
-
-<!-- DevOps & Deployment -->
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,flyio,vercel,githubactions,jenkins,kubernetes&theme=dark" title="Docker, Nginx, AWS,  Vercel, GitHub Actions, Jenkins, Kubernetes" />
-
-
-
-
-
-<!-- Tools & IDEs -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" title="Git, GitHub, VSCode, Figma" />
-
-</div>
-
-
----
-
-## 🌐 Connect
 <a href="mailto:your-vishalcsx@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" /></a>
 <a href="https://linkedin.com/in/vishal-singh-779054260"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
 <a href="https://twitter.com/VishalCsx"><img src="https://img.icons8.com/color/48/twitter--v1.png" /></a>
