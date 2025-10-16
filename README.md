@@ -26,13 +26,11 @@
   <a href="mailto:your-vishalcsx@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" /></a>
   <a href="https://linkedin.com/in/vishal-singh-779054260"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
   <a href="https://twitter.com/VishalCsx"><img src="https://img.icons8.com/color/48/twitter--v1.png" /></a>
-  <a href="https://github.com/VishalDevx"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" /></a>
+
 </p>
 
 
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=VishalCsx&style=for-the-badge&color=36BCF7" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer&animation=fadeIn" />
