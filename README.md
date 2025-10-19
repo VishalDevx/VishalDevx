@@ -1,6 +1,6 @@
 
 
-# Hi 👋, I'm Vishal
+# Hi 👋,  I'm Vishal
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3%20Enthusiast;Always%20learning&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000" />
 
