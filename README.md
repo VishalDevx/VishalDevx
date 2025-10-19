@@ -6,7 +6,7 @@
 
 
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Activity
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
