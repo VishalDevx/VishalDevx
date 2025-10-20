@@ -14,7 +14,7 @@
 
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react-dark&hide_border=true&area=true" height="300"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react-dark&hide_border=true&area=true" height="310"  />
 
 </div>
 
