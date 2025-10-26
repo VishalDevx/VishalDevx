@@ -36,20 +36,6 @@
 
 ---
 
-## 📦 Featured Projects
-
-### 🏫 [School Management System](https://github.com/VishalDevx/school-management-system)
-> Modular LMS with admin, staff, and student roles, Supabase backend, analytics dashboard, and Zod schema validation.
-
-### 🧱 [DAO Framework (Solana)](https://github.com/VishalDevx/dao-framework)
-> On-chain governance system built with Rust + Anchor. Includes dynamic quorum voting and modular governance plugins.
-
-### ⚙️ [DevOps Boilerplate](https://github.com/VishalDevx/devops-boilerplate)
-> Preconfigured setup for Dockerized Node.js microservices with CI/CD pipelines, Nginx reverse proxy, and monitoring setup.
-
-*(Pin these repos on your GitHub profile for maximum impact.)*
-
----
 
 ## 📈 GitHub Stats
 
