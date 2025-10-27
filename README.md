@@ -25,16 +25,7 @@
 
 ---
 
-## 🧠 Tech Stack
 
-**Languages:** Rust, TypeScript, JavaScript, Go  
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express, Supabase, PostgreSQL, MongoDB  
-**Blockchain:** Solana, Anchor Framework  
-**DevOps:** Docker, GitHub Actions, Nginx, CI/CD, PM2, Linux  
-**Tools:** Prisma, Zod, JWT, Redis, Postman, VS Code  
-
----
 
 
 ## 📈 GitHub Stats
@@ -54,23 +45,8 @@
   <a href="https://twitter.com/VishalCsx"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
 </p>
 
----
 
-## 🧩 Open Source Contributions
 
-- **lms-common** → Maintainer of Zod schema package used in LMS project  
-- **Anchor Framework (Solana)** → Exploring contribution to testing modules  
-- **Supabase** → Auth adapter fixes & documentation improvements  
-
-*(Actively contributing to open-source Rust and Solana projects.)*
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalDevx&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -89,13 +65,6 @@ Every line of code is written with **architecture, maintainability, and purpose*
   <img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,express,postgres,mongodb,supabase,docker,nginx,linux,git,github,vscode,redis" />
 </p>
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDevx&theme=react-dark&hide_border=true&area=true" height="300" />
-</p>
 
 ---
 
