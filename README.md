@@ -57,13 +57,7 @@
 I’m not here to write tutorial-grade code — I build **real systems** that can handle scale, security, and performance.  
 Every line of code is written with **architecture, maintainability, and purpose** in mind.
 
----
 
-## ⚙️ Tools & Environments I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,express,postgres,mongodb,supabase,docker,nginx,linux,git,github,vscode,redis" />
-</p>
 
 
 ---
