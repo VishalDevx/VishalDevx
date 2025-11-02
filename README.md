@@ -23,17 +23,7 @@
 - 🧱 Exploring: **Solana DAO Framework** with dynamic quorum and snapshot voting  
 - 🧰 Learning: **Advanced Rust patterns**, **Anchor framework**, **Horizontal scaling & monitoring**
 
----
 
-
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalDevx&show_icons=true&theme=react&hide_border=true" height="180" />
-  
-</p>
 
 ---
 
