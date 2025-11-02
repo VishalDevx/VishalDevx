@@ -52,13 +52,5 @@ Every line of code is written with **architecture, maintainability, and purpose*
 
 ---
 
-## 📄 Badges
-
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-orange.svg)
-![CI/CD Ready](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue.svg)
-![Always Learning](https://img.shields.io/badge/Status-Always%20Learning-success.svg)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer&animation=fadeIn" />
