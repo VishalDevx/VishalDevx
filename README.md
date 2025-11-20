@@ -20,8 +20,7 @@
 ## 🧭 Currently
 
 - ⚙️ Building: **Full-stack School Management System** (Next.js + Supabase + Express + Zod)  
-- 🧱 Exploring: **Solana DAO Framework** with dynamic quorum and snapshot voting  
-- 🧰 Learning: **Advanced Rust patterns**, **Anchor framework**, **Horizontal scaling & monitoring**
+
 
 
 
