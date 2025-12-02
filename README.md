@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🧩 Passionate about building **scalable systems**, **production-grade backends**, and **Web3 infra**.  
-- 🧠 Deep diving into **Rust**, **Solana**, and **advanced system design**.  
+- 🧠 Deep diving into **Python**, **Machine Learning**, and **advanced LLM Design**.  
 - 💡 I enjoy designing frameworks that simplify complex systems — from LMS platforms to DAO infrastructures.  
 - 🌱 Currently mastering **low-level systems**, **distributed architecture**, and **DevOps automation**.  
 - 🎯 Goal: Build open, modular systems that actually ship — not just look good on paper.
