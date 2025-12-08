@@ -17,14 +17,7 @@
 
 ---
 
-## 🧭 Currently
 
-- ⚙️ Building: **Full-stack School Management System** (Next.js + Supabase + Express + Zod)  
-
-
-
-
----
 
 ## 🌐 Connect
 
