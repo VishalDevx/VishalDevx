@@ -43,10 +43,6 @@ Every line of code is written with **architecture, maintainability, and purpose*
 
 
 ---
-## 🧱 Active Systems (Auto-Updated)
 
-<!-- SYSTEMS:START -->
-<!-- SYSTEMS:END -->
-------
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer&animation=fadeIn" />
