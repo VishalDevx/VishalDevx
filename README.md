@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Vishal  
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Rust+%26+Solana+Learner;System+Design+Enthusiast;DevOps+Practitioner;Always+Building+Something+New&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;AI/ML+%26+LLM+Learner;System+Design+Enthusiast;DevOps+Practitioner;Always+Building+Something+New&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000" />
 
 ---
 
@@ -25,6 +25,8 @@
   <a href="mailto:vishalcsx@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/vishal-singh-779054260"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/VishalCsx"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
+    <a href="https://vishalcsx.online"><img src="https://img.icons8.com/color/48/portdolio--v1.png" alt="Portfolio"/></a>
+
 </p>
 
 
