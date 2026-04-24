@@ -1,122 +1,70 @@
-<!-- PROFILE HEADER -->
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=header&animation=fadeIn" />
+<div align="center">
 
-# 👋 Hi, I'm Vishal  
-# Vishal Singh  
+# Vishal Singh
+
 ### Backend-Heavy Full Stack Engineer • Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;AI/ML+%26+LLM+Learner;System+Design+Enthusiast;DevOps+Practitioner;Always+Building+Something+New&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000" />
-<img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Systems;Backend+%3E+Everything;Scaling+is+the+Goal;From+Idea+to+Production&center=true&width=600&height=45&color=36BCF7&vCenter=true&pause=1000" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=620&lines=Building+production-grade+backend+systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Learning+AI%2FML+and+LLM+systems;Systems+that+work+in+production" />
+
+</div>
 
 ---
 
-## 🚀 About Me
-## 🚀 What I Actually Do
+## About
 
-- 🧩 Passionate about building **scalable systems**, **production-grade backends**, and **Web3 infra**.  
-- 🧠 Deep diving into **Python**, **Machine Learning**, and **advanced LLM Design**.  
-- 💡 I enjoy designing frameworks that simplify complex systems — from LMS platforms to DAO infrastructures.  
-- 🌱 Currently mastering **low-level systems**, **distributed architecture**, and **DevOps automation**.  
-- 🎯 Goal: Build open, modular systems that actually ship — not just look good on paper.
-I build **backend-heavy systems** that are designed for real-world usage — not tutorials.
+I build backend-heavy systems designed for real-world usage — not tutorial projects.
 
-- Design **scalable architectures** (multi-tenant, distributed systems)
-- Build **high-performance APIs** with Node.js & TypeScript
-- Work with **databases at scale** (PostgreSQL, Redis, query optimization)
-- Implement **background processing systems** (queues, workers, event-driven flows)
-- Focus on **production concerns** → caching, failures, consistency, performance
+- APIs, services, and system flows using **Node.js & TypeScript**
+- PostgreSQL, Redis, caching, queues, and background jobs
+- Multi-tenant architectures, performance, reliability, and maintainability
+- Learning **Python, AI/ML, and LLM system design**
+- Contributing to **cal.com** and building production-grade projects
 
 ---
 
-## 🧠 Current Focus
+## Stack
 
-- Contributing to :contentReference[oaicite:0]{index=0} (real-world OSS systems)
-- Building production-grade backend systems
-- Deep diving into system design & distributed systems
-- Strengthening DevOps & infrastructure understanding
-
----
-
-## ⚙️ Tech Stack
-
-**Backend**
-- Node.js, TypeScript, Express
-- PostgreSQL, MongoDB
-- Redis (caching, pub/sub)
-- BullMQ (queues, background jobs)
-
-**Frontend**
-- React, Next.js
-- TailwindCSS
-
-**DevOps & Infra**
-- Docker
-- CI/CD basics
-- Linux
-
----
-
-## 📌 What I Care About
-
-- Systems that **don’t break under load**
-- Code that is **maintainable after 1 year**
-- Solving **real engineering problems**, not UI polishing
-- Shipping fast, but **not sloppy**
-
----
-
-## 📈 Current Direction
-
-- Scaling up OSS contributions (target: 100+ merged PRs)
-- Building systems that demonstrate **real backend depth**
-- Preparing for **high-growth startup environments**
-
----
-
-## 🌐 Connect
-
-<p align="left">
-<a href="mailto:vishalcsx@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  <img src="https://img.icons8.com/color/48/gmail-new.png" />
-</a>
-
-<a href="https://linkedin.com/in/vishal-singh-779054260" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  <img src="https://img.icons8.com/color/48/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/VishalCsx" target="_blank">
-  <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
-  <img src="https://img.icons8.com/color/48/twitter--v1.png" />
-</a>
-
-<a href="https://www.vishalcsx.online/" target="_blank">
-  <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
-  <img src="https://img.icons8.com/color/48/domain.png" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,redis,mongodb,react,nextjs,docker,linux,git,github,python" />
 </p>
 
-
-
+**Backend:** Node.js · TypeScript · Express · PostgreSQL · Redis · BullMQ  
+**Frontend:** React · Next.js · TailwindCSS  
+**Infra:** Docker · Linux · GitHub Actions  
+**Learning:** Python · AI/ML · LLM Systems  
 
 ---
 
-## 🧠 Philosophy
+## Current Focus
 
-> “Build systems that scale, code that lasts, and products that matter.”
+- Open-source contributions at **cal.com**
+- Backend-heavy production systems
+- System design and distributed architecture
+- AI/ML fundamentals and LLM-powered applications
 
-I’m not here to write tutorial-grade code — I build **real systems** that can handle scale, security, and performance.  
-Every line of code is written with **architecture, maintainability, and purpose** in mind.
+---
 
+## Contact
 
-## ⚡ Philosophy
+<p>
+  <a href="mailto:vishalcsx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vishal-singh-779054260">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/VishalCsx">
+    <img src="https://img.shields.io/badge/Twitter/X-0F172A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.vishalcsx.online">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
 
 > Build systems that work in production — everything else is secondary.
 
----
-
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer&animation=fadeIn" />
+</div>
