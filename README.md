@@ -4,7 +4,7 @@
 
 ### Backend-Heavy Full Stack Engineer • Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=0F172A&center=true&vCenter=true&width=620&lines=Building+production-grade+backend+systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Learning+AI%2FML+and+LLM+systems;Systems+that+work+in+production" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=1E293B&center=true&vCenter=true&width=620&lines=Building+production-grade+backend+systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Learning+AI%2FML+and+LLM+systems;Systems+that+work+in+production" />
 
 </div>
 
