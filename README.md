@@ -1,48 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=header" />
-
-<h1 align="center">Vishal Singh</h1>
-
-<p align="center">
-  <b>Backend-Heavy Full Stack Engineer</b><br/>
-  Building scalable APIs, distributed systems, and production-grade web apps.
-</p>
-
-<p align="center">
-  <a href="mailto:vishalcsx@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/vishal-singh-779054260">LinkedIn</a> •
-  <a href="https://twitter.com/VishalCsx">Twitter/X</a> •
-  <a href="https://www.vishalcsx.online">Portfolio</a>
-</p>
+# Vishal Singh  
+Backend-Heavy Full Stack Engineer
 
 ---
 
-### What I Build
+I build backend systems that are designed for real-world usage — not tutorials.
 
-- Backend-heavy systems with **Node.js, TypeScript, PostgreSQL, Redis**
-- APIs, queues, caching, background jobs, and multi-tenant architectures
-- Frontend interfaces with **React, Next.js, TailwindCSS**
-- Production-focused systems: performance, reliability, and maintainability
-
----
-
-### Current Focus
-
-- Contributing to **cal.com**
-- Building strong backend/system design projects
-- Preparing for high-growth startup engineering roles
+- APIs, services, and system flows using Node.js & TypeScript  
+- PostgreSQL, Redis, caching, and performance optimization  
+- Queues, background jobs, and event-driven architecture  
+- Focus on reliability, scalability, and maintainability  
 
 ---
 
-### Stack
+## Current Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,redis,mongodb,react,nextjs,docker,linux,git,github" />
-</p>
+- Contributing to :contentReference[oaicite:0]{index=0}  
+- Building production-grade backend systems  
+- Improving system design & distributed systems  
 
 ---
 
-<p align="center">
-  <i>Build systems that work in production — everything else is secondary.</i>
-</p>
+## Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer" />
+Node.js • TypeScript • PostgreSQL • Redis • BullMQ  
+React • Next.js • Docker  
+
+---
+
+## Contact
+
+Email: vishalcsx@gmail.com  
+LinkedIn: https://linkedin.com/in/vishal-singh-779054260  
+Portfolio: https://www.vishalcsx.online/
+
+---
+
+> Build systems that work in production.
