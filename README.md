@@ -4,7 +4,7 @@
 
 ### Backend-Heavy Full Stack Engineer • Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=30363D&center=true&vCenter=true&width=620&lines=Building+production-grade+backend+systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Learning+AI%2FML+and+LLM+systems;Systems+that+work+in+production" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=CAE8BD&center=true&vCenter=true&width=620&lines=Building+production-grade+backend+systems;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Learning+AI%2FML+and+LLM+systems;Systems+that+work+in+production" />
 
 </div>
 
@@ -65,6 +65,6 @@ I build backend-heavy systems designed for real-world usage — not tutorial pro
 
 <div align="center">
 
-> Build systems that work in production — everything else is secondary.
+Build systems that work in production — everything else is secondary.
 
 </div>
